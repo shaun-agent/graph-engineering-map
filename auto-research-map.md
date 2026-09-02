@@ -1,5 +1,7 @@
 # auto-research-map
 
+> 🌐 **English** · [繁體中文](./auto-research-map.zh-TW.md)
+
 Standalone answer to the three questions about [`karpathy/autoresearch`](https://github.com/karpathy/autoresearch). For how this fits the wider loop → swarm → DAG → graph progression, see [README.md](./README.md).
 
 ---

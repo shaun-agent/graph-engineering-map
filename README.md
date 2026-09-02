@@ -1,5 +1,7 @@
 # graph-engineering-map
 
+> 🌐 **English** · [繁體中文](./README.zh-TW.md)
+
 A merged mental map of two things that turn out to be the same story told at two scales:
 
 1. **`auto-research-map`** — what Andrej Karpathy's [`karpathy/autoresearch`](https://github.com/karpathy/autoresearch) actually does, what it's good for, and whether it burns a ton of tokens.
